@@ -1,0 +1,15 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Repo for design patterns code examples",
+  "main": "index.js",
+  "license": "MIT",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
